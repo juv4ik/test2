@@ -1,2 +1,2 @@
 def main():
-    print('hello, man')
+    print('hello, man2')
